@@ -1,0 +1,69 @@
+.heart-container {
+
+}
+
+/* .heart-icon {
+    width: 20px;
+    height: auto;
+}
+
+.heart-style {
+    fill: red !important;
+    width: 20px;
+    height: auto;
+    stroke-width: 5px;
+} */
+.heart-container {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    align-self: right;
+    top: 30px;
+    right: 30px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.heart {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    border-radius: 2px;
+    background-color: #ccc;
+    /* background-color: red; */
+    transform: rotate(-45deg);
+}
+
+.heart:before,
+.heart:after {
+    content: '';
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #ccc;
+    position: absolute;
+}
+
+.heart:before {
+    top: -8px;
+    left: 0;
+}
+
+.heart:after {
+    top: 0;
+    left: 8px;
+}
+
+.heart-container:hover .heart:before,
+.heart-container:hover .heart:after,
+.heart-container:hover .heart {
+    background-color: #e77b50;
+} 
+
+
+.heart-highlight,
+.heart-highlight::before,
+.heart-highlight::after {
+    background-color: #e76950;
+}

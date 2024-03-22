@@ -1,0 +1,281 @@
+[
+    {
+        "name": "Cheese Platter",
+        "description": "An assortment of Remy's favourite cheeses for when he is feeling snackish",
+        "image": "images/cheese-platter.png",
+        "ingredients": [
+            {
+                "name": "Blue Cheese",
+                "price": 4.99,
+                "quantity": 2
+            },
+            {
+                "name": "Green Cheese",
+                "price": 3.99,
+                "quantity": 2
+            },
+            {
+                "name": "Yellow Cheese",
+                "price": 2.99,
+                "quantity": 2
+            },
+            {
+                "name": "String Cheese",
+                "price": 5.99,
+                "quantity": 2
+            }
+        ],
+        "time": 12,
+        "difficulty": 1
+    },
+    {
+        "name": "Gordon Ramsay's Beef Wellington",
+        "description": "Slow roasted beef wrapped in egg-washed puff pastry",
+        "image": "images/beef-wellington.png",
+        "ingredients": [
+            {
+                "name": "Australian ribeye",
+                "price": 14.99,
+                "quantity": 1
+            },
+            {
+                "name": "Puff Pastry",
+                "price": 3.99,
+                "quantity": 2
+            },
+            {
+                "name": "Parsley",
+                "price": 0.99,
+                "quantity": 1
+            },
+            {
+                "name": "Gravy",
+                "price": 5.99,
+                "quantity": 2
+            }
+        ],
+        "time": 75,
+        "difficulty": 5
+    },
+    {
+        "name": "Chocolate Chip Oatmeal Cookies",
+        "description": "Super scrumptious chocolate chip cookies for when you are craving something sweet",
+        "image": "images/choc-chip-cookie.png",
+        "ingredients": [
+            {
+                "name": "Rolled Oats",
+                "price": 4.99,
+                "quantity": 1
+            },
+            {
+                "name": "Chocolate Chips",
+                "price": 3.99,
+                "quantity": 1
+            },
+            {
+                "name": "Butter",
+                "price": 2.99,
+                "quantity": 1
+            },
+            {
+                "name": "Sugar",
+                "price": 2.99,
+                "quantity": 1
+            },
+            {
+                "name": "Carton of Eggs",
+                "price": 10,
+                "quantity": 1
+            }
+        ],
+        "time": 45,
+        "difficulty": 3
+    },
+    {
+        "name": "Mango",
+        "description": "Like the name suggests... it's mango.. yum",
+        "image": "images/mango.png",
+        "ingredients": [
+            {
+                "name": "Ripe Mango",
+                "price": 12.99,
+                "quantity": 3
+            }
+        ],
+        "time": 10,
+        "difficulty": 2
+    },
+    {
+        "name": "Chocolate Covered Strawberries",
+        "description": "gworl dinnerr... gworl dinnerrrr..",
+        "image": "images/choc-strawberry.png",
+        "ingredients": [
+            {
+                "name": "Strawberries",
+                "price": 4.99,
+                "quantity": 1
+            },
+            {
+                "name": "Chocolate Bar",
+                "price": 1.99,
+                "quantity": 2
+            }
+        ],
+        "time": 5,
+        "difficulty": 1
+    },
+    {
+        "name": "Matcha Latte",
+        "description": "Steamed to perfection, good way to start the morning :)",
+        "image": "images/matcha-latte.png",
+        "ingredients": [
+            {
+                "name": "Matcha Powder",
+                "price": 14.99,
+                "quantity": 1
+            },
+            {
+                "name": "Milk",
+                "price": 5.99,
+                "quantity": 1
+            }
+        ],
+        "time": 10,
+        "difficulty": 2
+    },
+    {
+        "name": "Whole Wheat Bagel",
+        "description": "Made from love & made from scratch",
+        "image": "images/bagel.png",
+        "ingredients": [
+            {
+                "name": "Flour",
+                "price": 4.99,
+                "quantity": 1
+            },
+            {
+                "name": "Salt",
+                "price": 0.99,
+                "quantity": 1
+            },
+            {
+                "name": "Cream Cheese",
+                "price": 6.99,
+                "quantity": 1
+            },
+            {
+                "name": "Baking Powder",
+                "price": 2.99,
+                "quantity": 1
+            }
+        ],
+        "time": 60,
+        "difficulty": 4
+    },
+    {
+        "name": "Marshmallow",
+        "description": "Make your own flavour by adding your own toppings!",
+        "image": "images/marshmallow.png",
+        "ingredients": [
+            {
+                "name": "Powdered Sugar",
+                "price": 3.99,
+                "quantity": 3
+            },
+            {
+                "name": "Corn Starch",
+                "price": 3.99,
+                "quantity": 2
+            }
+        ],
+        "time": 45,
+        "difficulty": 3
+    },
+    {
+        "name": "Dumplings",
+        "description": "Little pork stuffed babies",
+        "image": "images/dumplings.png",
+        "ingredients": [
+            {
+                "name": "Dumpling Wrapper",
+                "price": 5.99,
+                "quantity": 1
+            },
+            {
+                "name": "Minced Pork",
+                "price": 7.99,
+                "quantity": 1
+            },
+            {
+                "name": "Chives",
+                "price": 2.50,
+                "quantity": 1
+            },
+            {
+                "name": "Garlic",
+                "price": 0.99,
+                "quantity": 2
+            }
+        ],
+        "time": 50,
+        "difficulty": 3
+    },
+    {
+        "name": "Grilled Cheese",
+        "description": "A good day for some comfort food",
+        "image": "images/grilled-cheese.png",
+        "ingredients": [
+            {
+                "name": "Cheese",
+                "price": 2.99,
+                "quantity": 1
+            },
+            {
+                "name": "Sliced Bread",
+                "price": 3.99,
+                "quantity": 1
+            }
+        ],
+        "time": 10,
+        "difficulty": 2
+    },
+    {
+        "name": "Tomato Soup",
+        "description": "Need a lil something to go with the grilled cheese?",
+        "image": "images/soup.png",
+        "ingredients": [
+            {
+                "name": "Canned Tomatoes",
+                "price": 3.99,
+                "quantity": 1
+            },
+            {
+                "name": "Onion Powder",
+                "price": 4.99,
+                "quantity": 1
+            }
+        ],
+        "time": 25,
+        "difficulty": 3
+    },
+    {
+        "name": "Hot Chocolate",
+        "description": "YUMMY YUMMY YUMMY",
+        "image": "images/hot-choc.png",
+        "ingredients": [
+            {
+                "name": "Chocolate Powder",
+                "price": 3.99,
+                "quantity": 1
+            },
+            {
+                "name": "Oat Milk",
+                "price": 5.99,
+                "quantity": 1
+            }
+        ],
+        "time": 5,
+        "difficulty": 1
+    }
+  ]
+  
